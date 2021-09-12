@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AmanPatnaik2507
+- 👋 Hi, I’m Aman
 - 👀 I’m interested in Data Science , Python ,R ,MAchine Learning and Bootstrap
 - 🌱 I’m currently learning Python and Bootstrap
 - 💞️ I’m looking to collaborate on Data science
